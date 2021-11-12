@@ -1,4 +1,9 @@
 Hola soy el archivo 1
 mas 1
 mucho mas 1
+<<<<<<< HEAD
 nuevas lineas desde master
+=======
+nuevas lineas desde la rama
+nuevas lineas desde la rama+
+>>>>>>> jon_fernandez_rama
